@@ -1,0 +1,25 @@
+# 编译产物
+target/
+build/
+out/
+*.class
+*.war
+*.jar
+
+# IDE（IntelliJ IDEA / Eclipse / VS Code）
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+
+# 日志
+*.log
+logs/
+
+# 操作系统
+.DS_Store
+Thumbs.db
