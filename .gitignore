@@ -23,3 +23,20 @@ logs/
 # 操作系统
 .DS_Store
 Thumbs.db
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# 打包文件
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# JVM 崩溃日志
+hs_err_pid*
+replay_pid*
